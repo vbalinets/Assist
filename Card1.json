@@ -1,265 +1,133 @@
 {
-
   "type": "list_card",
-
   "paddings": {
-
     "top": "4x",
-
     "bottom": "4x"
-
   },
-
   "cells": [
-
     {
-
       "type": "text_cell_view",
-
       "content": {
-
         "text": "Мои карты",
-
         "typeface": "title1",
-
         "text_color": "default"
-
       },
-
       "paddings": {
-
         "left": "8x",
-
         "top": "6x",
-
         "right": "8x",
-
         "bottom": "6x"
-
       }
-
     },
-
     {
-
       "type": "left_right_cell_view",
-
       "divider": {
-
         "style": "default",
-
         "size": "d5"
-
       },
-
       "paddings": {
-
         "left": "8x",
-
         "top": "8x",
-
         "right": "8x",
-
         "bottom": "8x"
-
       },
-
       "left": {
-
         "type": "simple_left_view",
-
         "icon": {
-
           "address": {
-
             "type": "local",
-
             "identificator": "card_mc_black"
-
           },
-
           "size": {
-
             "width": "medium",
-
             "height": "medium"
-
           },
-
           "margins": {
-
             "right": "6x"
-
           }
-
         },
-
         "icon_vertical_gravity": "center",
-
         "texts": {
-
           "title": {
-
             "text": "MasterCard Gold зарплатная",
-
             "typeface": "body1",
-
             "text_color": "default"
-
           },
-
           "subtitle": {
-
             "text": "•• 1234",
-
             "typeface": "footnote1",
-
             "text_color": "secondary",
-
             "margins": {
-
               "top": "1x"
-
             }
-
           }
-
         }
-
       },
-
       "right": {
-
         "type": "detail_right_view",
-
         "detail": {
-
           "text": "10 000 000 ₽",
-
           "typeface": "body1",
-
           "text_color": "brand"
-
         },
-
         "margins": {
-
           "left": "2x"
-
         },
-
         "vertical_gravity": "top"
-
       }
-
     },
-
     {
-
       "type": "left_right_cell_view",
-
       "paddings": {
-
         "left": "8x",
-
         "top": "8x",
-
         "right": "8x",
-
         "bottom": "8x"
-
       },
-
       "left": {
-
         "type": "simple_left_view",
-
         "icon": {
-
           "address": {
-
             "type": "local",
-
             "identificator": "card_visa_digital"
-
           },
-
           "size": {
-
             "width": "medium",
-
             "height": "medium"
-
           },
-
           "margins": {
-
             "right": "6x"
-
           }
-
         },
-
         "icon_vertical_gravity": "center",
-
         "texts": {
-
           "title": {
-
             "text": "Digital Visa",
-
             "typeface": "body1",
-
             "text_color": "default"
-
           },
-
           "subtitle": {
-
             "text": "•• 8019",
-
             "typeface": "footnote1",
-
             "text_color": "secondary",
-
             "margins": {
-
               "top": "1x"
-
             }
-
           }
-
         }
-
       },
-
       "right": {
-
         "type": "detail_right_view",
-
         "detail": {
-
           "text": "-6 000 ₽",
-
           "typeface": "body1",
-
           "text_color": "warning"
-
         },
-
         "margins": {
-
           "left": "2x"
-
         },
-
         "vertical_gravity": "top"
-
       }
-
     }
-
   ]
-
-}
+          }
